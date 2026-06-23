@@ -1,12 +1,10 @@
 <div align="center">
-  <h1 style="font-size:2.4em; font-weight:700; letter-spacing:-1px; margin-bottom:4px;">Prathyusha H Kumar</h1>
+  <h1 style="font-size:2.4em; font-weight:700; letter-spacing:-1px; margin-bottom:4px;">PRATHYUSHA HARISH KUMAR</h1>
   <p style="font-size:1.1em; color:#555; margin-top:0;">Software &amp; Data Engineer &nbsp;·&nbsp; Baltimore, MD &nbsp;·&nbsp; MS Information Systems, UMBC</p>
   <p>
     <a href="https://prathyushaharishkumarcv.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logoColor=white" /></a>&nbsp;
     <a href="https://linkedin.com/in/prathyusha-h-kumar-843127185"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
     <a href="mailto:prathyushaharishkumar30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/IEEE%20ICDH%202026-Published-00629B?style=flat-square" />&nbsp;
-    <img src="https://img.shields.io/badge/OPT-Available%20Now-2ea44f?style=flat-square" />
   </p>
 </div>
 
