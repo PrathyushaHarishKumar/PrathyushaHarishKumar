@@ -1,18 +1,45 @@
 <div align="center">
-  <h1 style="font-size:2.4em; font-weight:700; letter-spacing:-1px; margin-bottom:4px;">PRATHYUSHA HARISH KUMAR</h1>
-  <p style="font-size:1.1em; color:#555; margin-top:0;">Software &amp; Data Engineer &nbsp;·&nbsp; Baltimore, MD &nbsp;·&nbsp; MS Information Systems, UMBC</p>
-  <p>
-    <a href="https://prathyushaharishkumarcv.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logoColor=white" /></a>&nbsp;
-    <a href="https://linkedin.com/in/prathyusha-h-kumar-843127185"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-    <a href="mailto:prathyushaharishkumar30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
-  </p>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Prathyusha%20H%20Kumar&fontSize=48&fontColor=e94560&fontAlignY=40&desc=Software%20%26%20Data%20Engineer&descSize=20&descFontColor=a8b2d8&descAlignY=62&animation=fadeIn)
+
+<a href="https://prathyushaharishkumarcv.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-%23e94560?style=for-the-badge&logoColor=white&logo=netlify" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/prathyusha-h-kumar-843127185">
+  <img src="https://img.shields.io/badge/LinkedIn-%230f3460?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:prathyushaharishkumar30@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%2316213e?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/IEEE%20ICDH%202026-Published-%2300629B?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/OPT-Available%20Now-%232ea44f?style=for-the-badge" />
+
+<br/><br/>
+
+![visitors](https://komarev.com/ghpvc/?username=PrathyushaHarishKumar&style=for-the-badge&color=e94560&label=PROFILE+VIEWS)
+
 </div>
 
 ---
 
-I build data pipelines, ML systems, and backend services. My work sits at the intersection of software engineering and data — production C++ microservices at IBM, an end-to-end AI grant platform built solo at a MedTech startup, ML research published at IEEE, and open-source contributions across a 50K-star AI agent codebase. I care about systems that are well-engineered, well-tested, and actually ship.
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=PrathyushaHarishKumar&show_icons=true&theme=tokyonight&hide_border=true&title_color=e94560&icon_color=e94560&text_color=a8b2d8&bg_color=1a1a2e" />
 
-Currently finishing my MS and open to **Data Engineer** and **Software Engineer** roles. Available immediately on OPT.
+### About me
+
+I build data pipelines, ML systems, and backend services. My work spans production C++ microservices at IBM, a solo-built full-stack AI platform at a MedTech startup, ML research published at IEEE, and open-source contributions to a 50K-star AI agent codebase.
+
+Currently finishing my MS in Information Systems at UMBC (GPA 3.89) and open to **Data Engineer** and **Software Engineer** roles. Available immediately on OPT.
+
+- MS Information Systems, UMBC — GPA 3.89
+- 2+ years production engineering experience
+- Co-authored IEEE ICDH 2026
+- Baltimore, MD
+
+<br clear="right"/>
 
 ---
 
@@ -20,128 +47,124 @@ Currently finishing my MS and open to **Data Engineer** and **Software Engineer*
 
 <table>
 <tr>
-<td width="120" valign="top"><b>IBM India</b><br/><sub>Jul 2023 – Jul 2024</sub></td>
-<td valign="top">
-<b>Software Developer</b> &nbsp;·&nbsp; EConfig Platform<br/>
-Built and maintained C++ and Python microservices on an enterprise configuration management platform serving distributed teams across product lines. Diagnosed a lock contention bug through thread profiling that had been causing intermittent failures across services — traced it, fixed it, shipped it. That work cut system incidents by 30% and improved throughput by 20%. Worked across the full backend lifecycle: design, implementation, code review, and on-call.
+<td>
+<img src="https://img.shields.io/badge/IBM%20India-052FAD?style=flat-square&logo=ibm&logoColor=white" />&nbsp;<sub>Jul 2023 – Jul 2024</sub>
+</td>
+<td><b>Software Developer &nbsp;·&nbsp; EConfig Platform</b></td>
+</tr>
+<tr>
+<td colspan="2">
+Built and maintained C++ and Python microservices on an enterprise configuration management platform. Diagnosed a lock contention bug through thread profiling that had been causing intermittent failures — traced it, fixed it, shipped it. Cut system incidents by <b>30%</b> and improved throughput by <b>20%</b>. Worked across the full backend lifecycle: design, implementation, code review, and on-call.
+<br/><br/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </td>
 </tr>
 <tr><td colspan="2"><br/></td></tr>
+
 <tr>
-<td width="120" valign="top"><b>Amplify MedTech</b><br/><sub>Aug 2025 – Apr 2026</sub></td>
-<td valign="top">
-<b>Data &amp; AI Systems Intern</b> &nbsp;·&nbsp; FIT Platform<br/>
-Grant discovery for MedTech startups is fragmented and manual. I was brought in as an intern and ended up building the entire product solo — Flask backend, PostgreSQL database, React + Vite + Tailwind frontend, ETL pipelines ingesting 10,000+ records from Grants.gov, NSF, and SBIR/STTR, and an OpenAI-powered agent that matches startups to relevant funding based on their research profile. JWT auth, admin dashboard, search and filtering — production, not a demo. The platform was selected by the Launch Nexus Fund.
+<td>
+<img src="https://img.shields.io/badge/Amplify%20MedTech-e94560?style=flat-square&logoColor=white" />&nbsp;<sub>Aug 2025 – Apr 2026</sub>
+</td>
+<td><b>Data &amp; AI Systems Intern &nbsp;·&nbsp; FIT Platform</b></td>
+</tr>
+<tr>
+<td colspan="2">
+Built the entire product solo — Flask backend, PostgreSQL database, React + Tailwind frontend, ETL pipelines ingesting <b>10,000+ records</b> from Grants.gov, NSF, and SBIR/STTR, and an OpenAI-powered agent that matches startups to relevant funding. JWT auth, admin dashboard, search and filtering — production, not a demo. Selected by the <b>Launch Nexus Fund</b>.
+<br/><br/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </td>
 </tr>
 <tr><td colspan="2"><br/></td></tr>
+
 <tr>
-<td width="120" valign="top"><b>UMBC Health Data Lab</b><br/><sub>Jan 2025 – Present</sub></td>
-<td valign="top">
-<b>Research Assistant</b> &nbsp;·&nbsp; NIH-Funded<br/>
-Built a benchmarking pipeline that evaluates ML models on 250K+ Medicaid member records to predict social risk factors (housing instability, food access, income) from SDoH features. Benchmarked Logistic Regression, Random Forest, XGBoost, and LightGBM — best model reached AUC 0.72 on a heavily imbalanced dataset. Results co-authored and accepted at <b>IEEE International Conference on Digital Health 2026</b>.
+<td>
+<img src="https://img.shields.io/badge/UMBC%20Health%20Data%20Lab-e94560?style=flat-square&logoColor=white" />&nbsp;<sub>Jan 2025 – Present</sub>
 </td>
+<td><b>Research Assistant &nbsp;·&nbsp; NIH-Funded</b></td>
 </tr>
-<tr><td colspan="2"><br/></td></tr>
 <tr>
-<td width="120" valign="top"><b>Goose AI</b><br/><sub>Block, Inc.</sub></td>
-<td valign="top">
-<b>Open Source Contributor</b> &nbsp;·&nbsp; 50K+ stars<br/>
-Contributed features across Python, Rust, React/TypeScript, and SQLite — one of the few contributors touching all four layers of the stack. Work included conversation branching, session tagging, and frontend UI components.&nbsp; <a href="https://github.com/aaif-goose/goose">→ Repository</a>
+<td colspan="2">
+Built an ML benchmarking pipeline evaluating models on <b>250K+ Medicaid member records</b> to predict social risk factors from SDoH features. Benchmarked Logistic Regression, Random Forest, XGBoost, and LightGBM — best model reached <b>AUC 0.72</b> on a heavily imbalanced dataset. Results accepted at <b>IEEE ICDH 2026</b>.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 </td>
 </tr>
 </table>
 
 ---
 
-## Projects
+## Tech stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**Real-Time Streaming Pipeline**
+**Languages**
 
-High-throughput event ingestion with exactly-once semantics, built end-to-end. Kafka producers → Spark Structured Streaming → AWS S3 + PostgreSQL sink. Live dashboarding on top.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-`Kafka` `Spark` `AWS S3` `PostgreSQL`
+**Data & Cloud**
 
-</td>
-<td width="50%" valign="top">
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
-**Botnet Detection System**
+**ML & AI**
 
-Network intrusion detection on 50K+ packet flow records. Ensemble methods with handcrafted features on packet metadata. 95% detection accuracy.
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-`Apache Spark` `AWS` `Python` `scikit-learn`
+**Databases & Web**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-**Cloud-Native Task Management Platform**
-
-Microservices architecture with full CI/CD. Containerized with Docker, orchestrated on Kubernetes, deployed via GitHub Actions pipeline.
-
-`Java` `Spring Boot` `React` `Docker` `Kubernetes`
-
-</td>
-<td width="50%" valign="top">
-
-**[Restaurant Recommendation Agent](https://github.com/PrathyushaHarishKumar/Restaurant_Recommendation_Agent)**
-
-Multi-agent LLM system using reasoning chains for personalized recommendations. Built the agent orchestration layer from scratch.
-
-`Python` `LLM agents` `multi-agent systems`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Image Clustering & Video Album Generation](https://github.com/PrathyushaHarishKumar/Image-Clustering-and-Algorithmic-Video-Album-Generation)**
-
-Computer vision pipeline that auto-clusters photos and composes them into video albums using algorithmic sequencing.
-
-`Python` `Computer Vision` `Clustering`
-
-</td>
-<td width="50%" valign="top">
-
-**Lung Cancer Prediction System**
-
-End-to-end ML pipeline with CNN-based feature extraction, deployed as a Flask API on AWS with Docker containerization.
-
-`Python` `CNN` `Flask` `Docker` `AWS` `PostgreSQL`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## Tech
+## GitHub stats
 
-| Domain | Tools |
-|---|---|
-| **Languages** | Python · C++ · SQL · JavaScript · Rust · Java |
-| **Data Engineering** | Apache Spark · Kafka · dbt · Airflow · AWS Glue · EMR · Lambda |
-| **ML & AI** | scikit-learn · PyTorch · TensorFlow · OpenAI API · LangChain · RAG |
-| **Infrastructure** | Docker · Kubernetes · GitHub Actions · AWS S3 · EC2 |
-| **Databases** | PostgreSQL · MySQL · SQLite · Redis |
-| **Web & APIs** | React · Vite · Tailwind CSS · Flask · Spring Boot · REST |
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathyushaHarishKumar&layout=compact&theme=tokyonight&hide_border=true&title_color=e94560&text_color=a8b2d8&bg_color=1a1a2e" />
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathyushaHarishKumar&theme=tokyonight&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560" />
+
+</div>
 
 ---
 
-## Education
+## Pinned projects
 
-**MS Information Systems · University of Maryland, Baltimore County (UMBC)**
-GPA 3.89 &nbsp;·&nbsp; Sep 2024 – May 2026 &nbsp;·&nbsp; Baltimore, MD
+<div align="center">
 
-Coursework: AI Systems, Machine Learning, Distributed Systems, Multiagent Systems, Probabilistic Reasoning
+[![FIT](https://github-readme-stats.vercel.app/api/pin/?username=PrathyushaHarishKumar&repo=Restaurant_Recommendation_Agent&theme=tokyonight&hide_border=true&title_color=e94560&text_color=a8b2d8&bg_color=1a1a2e)](https://github.com/PrathyushaHarishKumar/Restaurant_Recommendation_Agent)
+&nbsp;
+[![Image Clustering](https://github-readme-stats.vercel.app/api/pin/?username=PrathyushaHarishKumar&repo=Image-Clustering-and-Algorithmic-Video-Album-Generation&theme=tokyonight&hide_border=true&title_color=e94560&text_color=a8b2d8&bg_color=1a1a2e)](https://github.com/PrathyushaHarishKumar/Image-Clustering-and-Algorithmic-Video-Album-Generation)
 
-**In progress:** AWS Certified Data Engineer Associate (DEA-C01)
+</div>
 
 ---
 
@@ -154,5 +177,9 @@ Coursework: AI Systems, Machine Learning, Distributed Systems, Multiagent System
 ---
 
 <div align="center">
-  <sub>Open to Data Engineer and Software Engineer roles · Available on OPT · Based in Baltimore, MD · Sponsorship welcome</sub>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer)
+
+<sub>Open to Data Engineer and Software Engineer roles &nbsp;·&nbsp; Available on OPT &nbsp;·&nbsp; Baltimore, MD</sub>
+
 </div>
