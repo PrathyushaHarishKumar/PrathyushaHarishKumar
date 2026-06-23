@@ -7,7 +7,7 @@
 MS Information Systems · UMBC &nbsp;|&nbsp; GPA 3.89 &nbsp;|&nbsp; IEEE Published
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-prathyushaharishkumarcv.netlify.app-blue?style=flat-square&logo=netlify)](https://prathyushaharishkumarcv.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prathyusha--h--kumar-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/prathyusha-h-kumar-843127185)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prathyusha--h--kumar-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prathyusha-harish-kumar-843127185/)
 [![Email](https://img.shields.io/badge/Email-prathyushaharishkumar30@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:prathyushaharishkumar30@gmail.com)
 
 </div>
